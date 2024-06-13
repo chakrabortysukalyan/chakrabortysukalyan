@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakrabortysukalyan&label=Profile%20views&color=0e75b6&style=flat" alt="chakrabortysukalyan" /> </p>
 
-<h3 align="left">Look me up in</h3>
+<h3 align="left">Look me up on</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sukalyan-chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sukalyan-chakraborty" height="30" width="40" /></a>
 <a href="https://kaggle.com/sukalyanchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sukalyanchakraborty" height="30" width="40" /></a>
